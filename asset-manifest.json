@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://aniruddhy.github.io/csb-696znb/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://aniruddhy.github.io/csb-696znb/static/js/main.5f882ad1.chunk.js",
+    "main.js.map": "https://aniruddhy.github.io/csb-696znb/static/js/main.5f882ad1.chunk.js.map",
+    "runtime-main.js": "https://aniruddhy.github.io/csb-696znb/static/js/runtime-main.cf328e9c.js",
+    "runtime-main.js.map": "https://aniruddhy.github.io/csb-696znb/static/js/runtime-main.cf328e9c.js.map",
+    "static/js/2.ac99cd4e.chunk.js": "https://aniruddhy.github.io/csb-696znb/static/js/2.ac99cd4e.chunk.js",
+    "static/js/2.ac99cd4e.chunk.js.map": "https://aniruddhy.github.io/csb-696znb/static/js/2.ac99cd4e.chunk.js.map",
+    "index.html": "https://aniruddhy.github.io/csb-696znb/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://aniruddhy.github.io/csb-696znb/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.ac99cd4e.chunk.js.LICENSE.txt": "https://aniruddhy.github.io/csb-696znb/static/js/2.ac99cd4e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cf328e9c.js",
+    "static/js/2.ac99cd4e.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.5f882ad1.chunk.js"
+  ]
+}
